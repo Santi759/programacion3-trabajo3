@@ -1,0 +1,19 @@
+.blue{
+  color: blue;
+}
+
+.containerInputs{
+  display: flex;
+  margin-top: 1rem;
+  gap: 2vh;
+}
+
+.containerLista{
+  display: grid;
+
+  margin-top: 1rem;
+}
+
+.containerEmail{
+  padding: 1rem;
+}
